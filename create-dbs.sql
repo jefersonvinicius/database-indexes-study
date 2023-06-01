@@ -1,0 +1,2 @@
+CREATE DATABASE database_with_indexes;
+CREATE DATABASE database_without_indexes;

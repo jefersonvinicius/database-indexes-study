@@ -1,0 +1,6 @@
+services:
+  postgresqldb:
+    build: .
+    container_name: postgresqldb
+    environment:
+      POSTGRES_PASSWORD: docker
